@@ -1,0 +1,15 @@
+.button-error {
+  background: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.error {
+  color: rgb(202, 60, 60); /* this is a maroon */
+}
+
+.xsmall {
+  font-size: 70%;
+}
+
+input {
+  width: 90px;
+}
